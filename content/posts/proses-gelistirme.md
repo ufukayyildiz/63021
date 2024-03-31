@@ -1,7 +1,7 @@
 ---
-title: Friends don't lie
-date: 2021-01-04
-tags: [stranger things, tv series]
+title: Proses Geliştirme
+date: 2024-01-04
+tags: [proses geliştirme, tv series]
 social_image: '/media/rocket.jpg'
 description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
 ---
